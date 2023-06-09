@@ -1,0 +1,21 @@
+.odd-numbers {
+    font-family: Verdana, dejaVu sans, sans-serif;
+background-color: rgb(255, 168, 181);
+}
+
+.num-3 p {
+    color: blue;
+    font-size: 36px;
+    font-family: verdana, dejaVu-sans, sans-serif;
+}
+
+#num-2 {
+color: blue;
+font-size: 36px;
+}
+
+#num-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
